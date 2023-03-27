@@ -8,20 +8,21 @@ To build and run the application, you will need:
     Java 11 or later
     Apache Maven 3.6.0 or later
     An IDE like IntelliJ IDEA or Eclipse (optional)
+    Postman or any other tool for testing REST API
 
 Getting Started
 
 To run the application, first, clone the repository:
 
 
-    git clone https://github.com/your-username/spring-boot-crud-example.git
+    git clone https://github.com/sescorcia/crud-example.git
 
 
 
 Then, navigate to the project directory:
 
 
-    cd spring-boot-crud-example
+    cd crud-example
 
 ## Building and Running the Application
 
